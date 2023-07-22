@@ -7,7 +7,7 @@
 
 * {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  
+  color:black;
 }
 
 .logo {
@@ -44,4 +44,12 @@
 
 .read-the-docs {
   color: #888;
+}  
+
+div {
+ color: aliceblue;
+}
+
+content-class {
+  color: white;
 }

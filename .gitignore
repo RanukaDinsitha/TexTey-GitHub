@@ -24,4 +24,6 @@ release
 *.njsproj
 *.sln
 *.sw?
+.src/dev.ps1
+./public/vite.svg
 .history/

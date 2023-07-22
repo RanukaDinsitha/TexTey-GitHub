@@ -23,7 +23,7 @@ function App() {
         <p>{parse(text)}</p>
       </div>
     </div>
-  );
+  )
 }
 
 export default App;
